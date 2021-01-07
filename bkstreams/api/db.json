@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this stream is a test",
+      "id": 1
+    },
+    {
+      "title": "another stream",
+      "description": "this stream is a another test",
+      "id": 2
+    },
+    {
+      "title": "A stream to test id",
+      "description": "Is there an id in the state?",
+      "userId": "114241121164353472565",
+      "id": 3
+    },
+    {
+      "title": "Testing the push, with edits",
+      "description": "Hopefully this push works",
+      "id": 5
+    }
+  ]
+}

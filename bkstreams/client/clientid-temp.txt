@@ -1,0 +1,5 @@
+Client ID
+841158556989-gcp182dj5d4jng28ee4kksl09jpva3d5.apps.googleusercontent.com
+
+Client Secrect
+4zfForNyNRQ-IYX_rbnDK8_I

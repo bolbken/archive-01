@@ -1,0 +1,13 @@
+{
+    "name": "asi-munchkin-tweet-producer",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+      "ejs": "latest",
+      "aws-sdk": "latest",
+      "twit": "latest"
+    },
+    "scripts": {
+      "start": "node vader-tweet-producer/vader-tweet-producer-app.js"
+    }
+  }

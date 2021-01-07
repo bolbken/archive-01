@@ -1,0 +1,25 @@
+{
+    "payload": {
+        "newTweet": 0,
+        "running": 0,
+        "saberSFxState": 0,
+        "saberExtendConfirm": 0,
+        "saberRetractConfirm": 0
+    },
+    
+    "heartbeat": {
+        "commState": 0
+    },
+
+    "sfx": {
+        "name": null,
+        "index": null
+    },
+
+    "tweet": {
+        "timestamp": null,
+        "id": 0,
+        "username": null,
+        "text": null
+    }
+}
